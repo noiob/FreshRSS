@@ -1,6 +1,6 @@
 # Website scraping
 
-FreshRSS has a built-in [Web scrapping](https://en.wikipedia.org/wiki/Web_scraping) engine that generates a feed from websites that have no RSS/Atom feed published.
+FreshRSS has a built-in [Web scraping](https://en.wikipedia.org/wiki/Web_scraping) engine that generates a feed from websites that have no RSS/Atom feed published.
 
 ## How to add
 
